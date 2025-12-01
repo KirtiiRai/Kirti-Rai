@@ -1,21 +1,21 @@
 **Kirti Rai**
-#Aspiring Software Developer | AI & Data Science Enthusiast
+Aspiring Software Developer | AI & Data Science Enthusiast
 
 ---
 
 **About Me**
-#I love understanding and working with data, transforming insights into meaningful solutions.
-#Along with my interest in AI & Data Science, I’m also passionate about UI/UX design and building clean digital experiences.
-#Currently, I am learning **AI & Data Science**, exploring how machine learning, neural networks, and data-driven problem solving can be applied to real-world challenges.
+I love understanding and working with data, transforming insights into meaningful solutions.
+Along with my interest in AI & Data Science, I’m also passionate about UI/UX design and building clean digital experiences.
+Currently, I am learning **AI & Data Science**, exploring how machine learning, neural networks, and data-driven problem solving can be applied to real-world challenges.
 
 ---
 
 **Skills**
-#Languages: C++, Python, JavaScript
-#Web: HTML, CSS, ReactJS
-#Database: MySQL, MongoDB
-#Design: UI/UX, Figma
-#Other: Data Visualization, Git & GitHub
+Languages: C++, Python, JavaScript
+Web: HTML, CSS, ReactJS
+Database: MySQL, MongoDB
+Design: UI/UX, Figma
+Other: Data Visualization, Git & GitHub
 
 ---
 
