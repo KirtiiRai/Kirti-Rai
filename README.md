@@ -11,11 +11,11 @@ Currently, I am learning **AI & Data Science**, exploring how machine learning, 
 ---
 
 **Skills**
-Languages: C++, Python, JavaScript
-Web: HTML, CSS, ReactJS
-Database: MySQL, MongoDB
-Design: UI/UX, Figma
-Other: Data Visualization, Git & GitHub
+* Languages: C++, Python, JavaScript
+* Web: HTML, CSS, ReactJS
+* Database: MySQL, MongoDB
+* Design: UI/UX, Figma
+* Other: Data Visualization, Git & GitHub
 
 ---
 
