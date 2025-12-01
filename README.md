@@ -1,5 +1,5 @@
 **Kirti Rai**
-Aspiring Software Developer | AI & Data Science Enthusiast
+Aspiring Software Developer | AI & Data Science Enthusiast | UI/UX
 
 ---
 
